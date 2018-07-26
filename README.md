@@ -4,5 +4,21 @@
 
 ![App Coins Protocol - Distributed and Trusted App-based Transactions Protocol ](images/coverProtocol.png)
 
+## What is the protocol ? 
+
+Lorem ipsum
+
+## What is the problem that is being solved ? 
+
+## Components
+
+### Wallet
+
+### SDK / Plugin
+
+### Smart Contracts
+
+
+
 
 
