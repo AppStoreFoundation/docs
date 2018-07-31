@@ -41,6 +41,16 @@ The AppCoins protocol redefines three app store core processes:
 
 * **App approval**: To offer the app in the store, developers have to go through a stringent approval process in which the submitted app is screened by anti-virus and anti-malware tools, as well as static and dynamic code analysis platforms. Some app stores also rely on manual app testing.
 
+## Who can benefit from the protocol ? 
+
+| Stakeholder | Benefits | Extra information |
+|-------|------|:------:|
+| Developers |  ||
+| AppCoins integrators|  ||
+| OEMs |  ||
+| App Stores |  ||
+
+
 ## Components
 
 ### Wallet
