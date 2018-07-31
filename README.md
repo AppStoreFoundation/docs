@@ -37,9 +37,9 @@ The AppCoins protocol redefines three app store core processes:
 
 * **In-App Purchase (IAP)**: When users want to unlock premium features inside the app or game, the purchase mechanism is tied to the respective app store. To enable payment transactions, the developer has to either integrate the SDK from the app store or use its API. </li>
 
-*  Advertising inside the app store: Developers advertising to users to install their app or game. There are different advertising models depending on the intended action: CPI (Cost per Installation), CPA (Cost per Action), CPM (Cost per Thousand Impressions) and others. There are different technologies and platforms to support it: Ad networks, Exchanges and RTB (Real Time Bidding).
+* **Advertising inside the app store**: Developers advertising to users to install their app or game. There are different advertising models depending on the intended action: CPI (Cost per Installation), CPA (Cost per Action), CPM (Cost per Thousand Impressions) and others. There are different technologies and platforms to support it: Ad networks, Exchanges and RTB (Real Time Bidding).
 
-<li> App approval: To offer the app in the store, developers have to go through a stringent approval process in which the submitted app is screened by anti-virus and anti-malware tools, as well as static and dynamic code analysis platforms. Some app stores also rely on manual app testing.
+* **App approval**: To offer the app in the store, developers have to go through a stringent approval process in which the submitted app is screened by anti-virus and anti-malware tools, as well as static and dynamic code analysis platforms. Some app stores also rely on manual app testing.
 
 ## Components
 
