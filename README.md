@@ -45,7 +45,7 @@ The AppCoins protocol redefines three app store core processes:
 
 | Stakeholder | Benefits | Extra information |
 |-------|------|:------:|
-| Developers | *"One APK - multiple app stores - one wallet"* ||
+| Developers | *"One APK - multiple app stores - one wallet"*. You only need to integrate one SDK, and you can distribute to any store (with exception of Google Play). When the users pay using an AppCoins wallet, the APPC (AppCoins currency) will be imediately transferred to your wallet and a transaction is registered in the blockchain. | bla |
 | AppCoins integrators|  ||
 | OEMs |  ||
 | App Stores |  ||
