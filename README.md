@@ -45,11 +45,11 @@ The AppCoins protocol redefines three app store core processes:
 
 | Stakeholder | Benefits | Extra information |
 |-------|------|:------:|
-| Developers |  ||
+| Developers | *"One APK - multiple app stores - one wallet"* ||
 | AppCoins integrators|  ||
 | OEMs |  ||
 | App Stores |  ||
-
+| Crypto holders |  ||
 
 ## Components
 
@@ -59,7 +59,6 @@ The AppCoins protocol redefines three app store core processes:
 
 ### Smart Contracts
 
-## Getting more information
 
 
 
