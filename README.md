@@ -28,10 +28,20 @@ Firstly, open and transparent standards facilitate trust and privacy. Secondly, 
 ## What is the problem that is being solved ? 
 
 
-Today there are 2.1 bn smartphone users in the world generating more than \$77 bn in annual gross revenue. Those numbers are projected to double by 2020. However, app stores are still riddled with inefficiencies and malware. In-app purchases (IAP) are not accessible to the low-end market, in-app advertising is plagued by too many intermediaries, malware is still prevalent and innovation is slowing down.
+Today there are 2.1 bn smartphone users in the world generating more than \$77 bn in annual gross revenue. Those numbers are projected to double by 2020. However, app stores are still riddled with inefficiencies and malware. In-app purchases (IAP) are not accessible to the low-end market, in-app advertising is plagued by too many intermediaries, malware is still prevalent and innovation is slowing down. It is estimated that only 5\% of the users buy IAP or paid apps.
 
 The reasons are diverse: payment models are not suited for emerging countries and younger generations; there is no trust between the actors of the ecosystem; and there is a lack of standardisation defining clear interfaces and enabling market free entry for new players.
 
+The AppCoins protocol redefines three app store core processes:
+
+<ul class="simplelist">
+
+<li> ** In-App Purchase (IAP) **: When users want to unlock premium features inside the app or game, the purchase mechanism is tied to the respective app store. To enable payment transactions, the developer has to either integrate the SDK from the app store or use its API. </li>
+
+<li> Advertising inside the app store: Developers advertising to users to install their app or game. There are different advertising models depending on the intended action: CPI (Cost per Installation), CPA (Cost per Action), CPM (Cost per Thousand Impressions) and others. There are different technologies and platforms to support it: Ad networks, Exchanges and RTB (Real Time Bidding).§</li>
+
+<li> App approval: To offer the app in the store, developers have to go through a stringent approval process in which the submitted app is screened by anti-virus and anti-malware tools, as well as static and dynamic code analysis platforms. Some app stores also rely on manual app testing.</li>
+</ul>§
 
 ## Components
 
