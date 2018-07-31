@@ -14,7 +14,6 @@ It aims to mitigate the current inherent deficiencies of app stores. By marrying
 
 The design of the AppCoins protocol rests on three main pillars: 
 
-++++
 <ul class="simplelist">
 
 <li> transparency </li> 
@@ -23,7 +22,6 @@ The design of the AppCoins protocol rests on three main pillars:
 
 <li> community-focused</li>
 </ul>
-++++
 
 Firstly, open and transparent standards facilitate trust and privacy. Secondly, revenue shares are redistributed away from unnecessary intermediaries to end-users and developers. Thirdly, through open-source code, knowledge is accessible to the community.
 
