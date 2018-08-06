@@ -60,7 +60,7 @@ ASF (App Store Foundation) provides an open source reference implementation. Oth
 ### Wallet
 
 |-------|:------:|
-| a | b |:w
+| a | b |
 
 
 
