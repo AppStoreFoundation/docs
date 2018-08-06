@@ -80,6 +80,14 @@ An Android [developer's SDK](https://github.com/AppStoreFoundation/asf-sdk/wiki)
 
 ### Smart Contracts
 
+ASF smart contracts are coded in Solidity and expresses the business rules executed in the blockchain.
+
+The parts of the App Store flows that require trust are usually coded in Solidity and deployed in Ethereum main net. For example, the revenue share of an in-app purchase between developer, OEM and App Store and coded in solidity and the APPC tokens imediately transferred to target wallets, with the guarantee that there is no centralized party that can keep the transaction or hide it.
+
+However, only essential actions are coded into the smartcontracts because of the current poor performance and scalability of the blockchain. This trade off between decentralized and centralized is further explained in the [Protocol documentation](https://github.com/AppStoreFoundation/docs/wiki). 
+
+
+![ASF Smart contracts](images/asf_smartcontract.png)
 
 
 
