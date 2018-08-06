@@ -59,8 +59,17 @@ ASF (App Store Foundation) provides an open source reference implementation. Oth
 
 ### Wallet
 
+ASF Wallet is an Ethereum ERC 20 wallet supporting the follow features:
 
-![ASF Wallet screenshots](images/wallet_screenshot.png) bla bla
+* **Send and Receive AppCoins**: the ASF Wallet is a client for your Ethereum wallet through the store and management of private keyi in your phone, allowing operations like sending AppCoins and Ether to other wallets and receiving as well. 
+
+* **In App Purchased**: through an extended version of [EIP681](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-681.md), ASF wallet is able to execute payments triggered by apps and games and processed by the ASF Wallet.
+
+* **Proof-of-Attention**: AppCoins protocol defines that user acquisition attribution depends on a correct processing of proof-of-attention. ASF Wallet generates a proof-of-attention after the user pays 2 minutes of attention (app / game in foreground).
+
+* **Listing transactions**: ASF Wallet lists previous transactions and provides details on each one.
+
+![ASF Wallet screenshots](images/wallet_screenshot.png) 
 
 ### SDK / Plugin
 
