@@ -59,12 +59,8 @@ ASF (App Store Foundation) provides an open source reference implementation. Oth
 
 ### Wallet
 
-bla 
 
-|-------|------|
-| a | b |
-|-------|------|
-
+![ASF Wallet screenshots](images/wallet_screenshot.png) bla bla
 
 ### SDK / Plugin
 
