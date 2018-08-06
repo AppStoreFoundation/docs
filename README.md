@@ -73,6 +73,11 @@ ASF Wallet is an Ethereum ERC 20 wallet supporting the follow features:
 
 ### SDK / Plugin
 
+An Android [developer's SDK](https://github.com/AppStoreFoundation/asf-sdk/wiki) is provided by ASF to enable the integration of AppCoins in games and apps. This SDK and associated snippets makes easier for the developer to support AppCoins In-App Purchased and User acquisiton (proof-of-attention). Since Unity game engine is very popular among Android game developers, a Unity Plugin is also provided as an alternative method of integration.
+
+![ASF SDK](images/asf_sdk.png)
+ 
+
 ### Smart Contracts
 
 
