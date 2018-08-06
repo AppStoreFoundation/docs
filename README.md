@@ -6,7 +6,7 @@
 
 ## What is the AppCoins protocol ? 
 
-The AppCoins protocol is an open, neutral and distributed platform built on the Ethereum blockchain. 
+The AppCoins protocol is an open, neutral and distributed platform for App Store flows (IAP, In Store Advertising, App Vetting) built on the Ethereum blockchain. 
 
 It aims to mitigate the current inherent deficiencies of app stores. By marrying blockchain technology with app store technology, app advertising, in-app billing and app-approval can be drastically improved and sped up through disintermediation and redistributing the unlocked value to end-users and developers. 
 
@@ -53,7 +53,16 @@ The AppCoins protocol redefines three app store core processes:
 
 ## Components
 
+In order to support the main App Store flows, three main components had been developed: wallet, SDK / Plugin, and Ethereum Smart Contracts.
+
+ASF (App Store Foundation) provides an open source reference implementation. Other implementation of these components exist and can be freely implemented by App Stores, OEMs and AppCoins integrators. The only requirement is that those implementations follow the AppCoins protocol to guarantee compatibility. 
+
 ### Wallet
+
+|-------|:------:|
+| a | b |:w
+
+
 
 ### SDK / Plugin
 
