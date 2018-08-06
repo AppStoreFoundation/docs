@@ -61,8 +61,6 @@ ASF (App Store Foundation) provides an open source reference implementation. Oth
 
 bla 
 
-| a | b 
-|-------|------|
 | a | b |
 
 
