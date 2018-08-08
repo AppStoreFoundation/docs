@@ -4,7 +4,7 @@
 
 ![AppCoins Protocol - Distributed and Trusted App-based Transactions Protocol ](images/coverProtocol.png)
 
-## What is the AppCoins protocol ? 
+## What is the AppCoins Protocol ? 
 
 The AppCoins protocol is an open, neutral and distributed platform for App Store flows (In-App Purchases, User Acquisition, App Vetting) built on the Ethereum blockchain. 
 
