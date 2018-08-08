@@ -12,7 +12,7 @@ It aims to mitigate the current inherent deficiencies of app stores. By marrying
 
 “AppCoin” ERC20 token will be used by the developers to generate Revenues from In-App Purchases and to advertise their Apps to the users. From every advertising investment inside the app store, 85% goes to the user. The user can use those coins to buy items (in-app purchases) or to buy coins in the market, generating the return of the investment to the developers. In parallel, the User Acquisition and IAB transactions are used to establish the reputation of the developer.
 
-The design of the AppCoins protocol rests on three main pillars: 
+The design of the AppCoins Protocol rests on three main pillars: 
 
 <ul class="simplelist">
 
