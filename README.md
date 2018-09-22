@@ -2,6 +2,7 @@
 
 [![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/AppCoinsProject/Lobby)
 
+
 ![AppCoins Protocol - Distributed and Trusted App-based Transactions Protocol ](images/coverProtocol.png)
 
 ## What is the AppCoins Protocol ? 
